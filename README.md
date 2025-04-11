@@ -1,4 +1,4 @@
-# IPL PERFORMANCE ANALYSIS PROJECT (2021-2023) - INSIGHTS & PREDICTIONS 🏏
+# IPL Performance Analysis Project (2021-2023) INSIGHTS & PREDICTIONS 🏏
 
 # Problem Statement:
 Sports Basics is a sports blog company that entered into the market recently.
