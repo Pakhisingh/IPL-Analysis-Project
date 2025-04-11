@@ -1,12 +1,12 @@
 # IPL Performance Analysis Project: Insights & Predictions 🏏
 
-# Problem Statement:
+# 🎯 Project Overview:
 Sports Basics is a sports blog company that entered into the market recently.
 They wanted to get more traffic to their website by releasing a special edition magazine on IPL 2024.
 This magazine aims to provide interesting insights and facts for fans, analysts and teams based on the last 3 years' data.
 Using SQL, I delved into the last 3 years data to uncover key insights requested for both primary and secondary analysis.
 
-# Dataset Overview:
+# 📊 Data Overview:
 
 The analysis utilises 4 datasets tables:
 1. players
@@ -14,7 +14,7 @@ The analysis utilises 4 datasets tables:
 3. batting_summary
 4. bowler_summary
 
-# Primary and Secondary Analysis 💡:
+## Primary and Secondary Analysis 💡:
 
 # Primary Insights:
 
@@ -37,6 +37,16 @@ Prediction of the winner and runner-up for 2024.
 Selection of the Best 11 players for your team based on positions, 3 years' performance data, and additional research.
 Selection of the top 3 all-rounders for your team.
 
-# Tool Used 🛠️:
+# 🎯 SQL Concepts Used:
 
-MySQL
+- Basic Queries: SELECT, DISTINCT, WHERE, GROUP BY, ORDER BY
+
+- Aggregations: SUM(), COUNT(), AVG(), MIN(), MAX()
+
+- Functions: CAST(), ROUND(), CASE-WHEN-THEN
+
+- Joins & Subqueries
+
+- CTEs (Common Table Expressions)
+
+- Window Functions: ROW_NUMBER(), OVER(), PARTITION BY
