@@ -1,4 +1,4 @@
-# IPL Performance Analysis Project (2021-2023) INSIGHTS & PREDICTIONS 🏏
+# IPL Performance Analysis Project: Insights & Predictions 🏏
 
 # Problem Statement:
 Sports Basics is a sports blog company that entered into the market recently.
@@ -37,6 +37,6 @@ Prediction of the winner and runner-up for 2024.
 Selection of the Best 11 players for your team based on positions, 3 years' performance data, and additional research.
 Selection of the top 3 all-rounders for your team.
 
-# Tools Used 🛠️:
+# Tool Used 🛠️:
 
 MySQL
