@@ -1,46 +1,22 @@
 # IPL Performance Analysis Project: Insights & Predictions 🏏
 
 # 🎯 Project Overview:
-Sports Basics is a sports blog company that entered into the market recently.
-They wanted to get more traffic to their website by releasing a special edition magazine on IPL 2024.
-This magazine aims to provide interesting insights and facts for fans, analysts and teams based on the last 3 years' data.
-Using SQL, I delved into the last 3 years data to uncover key insights requested for both primary and secondary analysis.
+- Sports Basics is a sports blog company that entered into the market recently.
+- They wanted to get more traffic to their website by releasing a special edition magazine on IPL 2024.
+- This magazine aims to provide interesting insights and facts for fans, analysts and teams based on the last 3 years' data.
+- Using SQL, I delved into the last 3 years data to uncover key insights requested for both primary and secondary analysis.
 
 # Dashboard
 
 ![image](https://github.com/user-attachments/assets/fdf37c81-f43c-463b-9d07-ceaedb3ed0b2)
 
+# Top 4 Qualifying Teams
+
 ![SQL Project IPL Analysis Presentation (1)](https://github.com/user-attachments/assets/627557a6-3ddc-4254-970d-b4af60428d37)
 
+# Top All-Rounders 
+
 ![SQL Project IPL Analysis Presentation (2)](https://github.com/user-attachments/assets/9dabb889-1f49-4ca8-8fd8-3088aab47c42)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # 📊 Data Overview:
 
@@ -79,10 +55,14 @@ The analysis utilises 4 datasets tables:
 
 - Aggregations: SUM(), COUNT(), AVG(), MIN(), MAX()
 
-- Functions: CAST(), ROUND(), CASE-WHEN-THEN
+- Functions: ROUND(), CASE-WHEN-THEN
 
 - Joins & Subqueries
 
 - CTEs (Common Table Expressions)
 
 - Window Functions: ROW_NUMBER(), OVER(), PARTITION BY
+
+# Project Outcome
+
+This project aims to provide valuable insights and predictions for IPL enthusiasts, analysts, and teams.
