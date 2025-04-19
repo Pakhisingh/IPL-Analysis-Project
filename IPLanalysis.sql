@@ -65,7 +65,8 @@ LIMIT 10;
 
 -------------------------------------------------------------------------------------------
 
--- 
+--- Top 10 bowlers based on past 3 years bowling average.
+
 WITH s AS (
   SELECT bowlerName,
          EXTRACT(YEAR FROM STR_TO_DATE(d.matchDate, '%b %d, %Y')) AS yr,
@@ -256,6 +257,8 @@ WITH my_cte AS (
      LIMIT 4)
 )
 SELECT player_name, playingRole FROM my_cte;
+
+-------------------------------------------------------------------------------------------
 
 --- Top 3 Allrounders
 
