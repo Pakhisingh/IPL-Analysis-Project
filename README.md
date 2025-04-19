@@ -1,20 +1,20 @@
-# IPL Performance Analysis Project: Insights & Predictions 🏏
+# IPL Data Analysis Project: Insights & Predictions 🏏
 
-# 🎯 Project Overview:
+## 🎯 Project Overview:
 - Sports Basics is a sports blog company that entered into the market recently.
 - They wanted to get more traffic to their website by releasing a special edition magazine on IPL 2024.
 - This magazine aims to provide interesting insights and facts for fans, analysts and teams based on the last 3 years' data.
 - Using SQL, I delved into the last 3 years data to uncover key insights requested for both primary and secondary analysis.
 
-# Dashboard
+## Dashboard
 
 ![image](https://github.com/user-attachments/assets/fdf37c81-f43c-463b-9d07-ceaedb3ed0b2)
 
-# Top 4 Qualifying Teams
+## Top 4 Qualifying Teams
 
 ![SQL Project IPL Analysis Presentation (1)](https://github.com/user-attachments/assets/627557a6-3ddc-4254-970d-b4af60428d37)
 
-# Top All-Rounders 
+## Top All-Rounders 
 
 ![SQL Project IPL Analysis Presentation (2)](https://github.com/user-attachments/assets/9dabb889-1f49-4ca8-8fd8-3088aab47c42)
 
