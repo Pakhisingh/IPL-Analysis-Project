@@ -8,7 +8,13 @@ Using SQL, I delved into the last 3 years data to uncover key insights requested
 
 # Dashboard
 
-![Uploading SQL Project IPL Analysis Presentation.png…]()
+![image](https://github.com/user-attachments/assets/fdf37c81-f43c-463b-9d07-ceaedb3ed0b2)
+
+![SQL Project IPL Analysis Presentation (1)](https://github.com/user-attachments/assets/627557a6-3ddc-4254-970d-b4af60428d37)
+
+![SQL Project IPL Analysis Presentation (2)](https://github.com/user-attachments/assets/9dabb889-1f49-4ca8-8fd8-3088aab47c42)
+
+
 
 
 
